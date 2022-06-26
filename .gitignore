@@ -1,0 +1,9 @@
+.idea/
+.gradle/
+build/*
+tokens/
+out/
+settings.txt
+src/main/resources/credentials.json
+
+photo.jpg
